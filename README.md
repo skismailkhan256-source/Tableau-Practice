@@ -1,5 +1,4 @@
-# Tableau-Practice
-
+# Tableau-Practic
 ## About
 This repository contains my Tableau practice work, including charts, dashboards, and data visualization projects.
 
